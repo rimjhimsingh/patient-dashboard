@@ -3,8 +3,6 @@
 ## Overview
 This project is a **Patient Health Dashboard** that visualizes blood pressure trends, diagnosis history, lab results, and other patient-related data. The data is fetched from an external API, processed dynamically, and presented in an interactive UI using **React.js**.
 
-I am excited to apply to **Coalition Technologies** as a Front-End Developer, and I hope this project showcases my skills in **React.js, state management, API integration, and UI design**. 🚀
-
 ## Functionalities
 
 ### 1. **Fetching and Handling Patient Data**
