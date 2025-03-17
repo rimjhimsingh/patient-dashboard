@@ -1,7 +1,7 @@
 {
   "name": "coalition-assesment",
   "version": "1.0.0",
-  "main": "public/index.html",
+  //"main": "public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel public/index.html",
