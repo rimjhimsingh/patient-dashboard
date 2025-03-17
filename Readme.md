@@ -1,6 +1,4 @@
 # Patient Health Dashboard
-## Use the App
-Click here to view the app: https://note-keeper-application123.vercel.app/
 
 ## Overview
 This project is a **Patient Health Dashboard** that visualizes blood pressure trends, diagnosis history, lab results, and other patient-related data. The data is fetched from an external API, processed dynamically, and presented in an interactive UI using **React.js**.
