@@ -2,10 +2,11 @@
   "name": "coalition-assessment",
   "version": "1.0.0",
   "source": "public/index.html",
+  "main": "App.jsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel serve public/index.html",
-    "build": "parcel build public/index.html"
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html",
+    "start": "parcel public/index.html --open"
   },
   "author": "",
   "license": "ISC",
